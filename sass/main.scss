@@ -1,0 +1,37 @@
+main.scss
+body{
+	font-family: sans-serif;
+	font-weight: 80;
+	background-color: lightblue;
+
+}
+
+h1{
+	text-align: center;
+	color: #666;
+	text-shadow: 0 2px 0 #fff;
+}
+
+.name{
+	font-size: 15px;
+}
+
+.city{
+	font-style: italic;
+	font-size: 13px;
+}
+
+.wrapper{
+	width: 500px;
+	margin: 0 auto;
+	box-shadow: 10px 10px 10px #555;
+	background: #fff;
+	border-radius: 10px;
+	padding: 10px;
+
+.contact-item{
+	border-bottom: thin dashed #ccc;
+	padding: 10px;
+}
+
+}
