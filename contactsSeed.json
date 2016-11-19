@@ -1,0 +1,31 @@
+contactsSeed.json
+{
+  "contacts": {
+    "contact1": {
+      "id": "0",
+      "name": "Jennifer Dutton",
+      "day_phone" : "6155434486",
+      "evening_phone" : "6155434486",
+      "email" : "jduttondesign@gmail.com",
+      "address_line_1" : "777 StudyBug St.",
+      "address_line_2" : "Apt. 777",
+      "city" : "Anytown",
+      "state" : "TN",
+      "zip" : "37205",
+      "country" : "USA"
+    },
+    "contact2": {
+      "id": "1",
+      "name": "Another Dutton",
+      "day_phone" : "6155434486",
+      "evening_phone" : "6155434486",
+      "email" : "jduttondesign@gmail.com",
+      "address_line_1" : "777 StudyBug St.",
+      "address_line_2" : "Apt. 777",
+      "city" : "Anytown",
+      "state" : "TN",
+      "zip" : "37205",
+      "country" : "USA"
+    }
+  }
+}
